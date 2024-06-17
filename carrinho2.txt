@@ -1,0 +1,4 @@
+item: Qtd: Nome: Preço: SubTotal:
+1 2 Jaqueta 199,99 399,98
+2 10 Feijão 7,99 79,90
+Total: 479,88
